@@ -19,7 +19,7 @@ As configurações são armazenadas no arquivo .gitconfig que fica localizado de
 - Windows: C:\Users\Documents and Settings\NOMEdoUSUARIO
 
 
-- Comandos para definir as Configurações
+## Comandos para definir as Configurações
 
 ##### Definir usuário
 	git config --global user.name "Nome do Usuário"
