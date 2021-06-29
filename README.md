@@ -254,7 +254,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 	git branch --no-merged
 
 
-##Criando branches no repositório remoto
+## Criando branches no repositório remoto
 
 ##### Criando um branch remoto com o mesmo nome
 	git push origin NomeDoBranch
