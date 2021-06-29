@@ -60,7 +60,7 @@ As configurações são armazenadas no arquivo .gitconfig que fica localizado de
 ##### Adicionar todos os arquivos e diretórios
 	git add .
 	
-##### Adicionar um arquivo que esta listado no .gitignore
+##### Adicionar um arquivo que esteja listado no .gitignore
 	git add -f nome_arquivo_no_gitignore.txt
 
 
