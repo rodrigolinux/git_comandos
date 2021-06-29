@@ -64,7 +64,7 @@ As configurações são armazenadas no arquivo .gitconfig que fica localizado de
 	git add -f nome_arquivo_no_gitignore.txt
 
 
-## Comitar arquivo/diretório
+## Realizar commit de arquivos/diretórios
 
 ##### Realizar commit de um arquivo
 	git commit NomeArquivo.txt
